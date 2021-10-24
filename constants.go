@@ -286,3 +286,11 @@ const (
 )
 
 const hotplugMatchAny = C.LIBUSB_HOTPLUG_MATCH_ANY
+
+const (
+	LogLevelNone    = C.LIBUSB_LOG_LEVEL_NONE
+	LogLevelError   = C.LIBUSB_LOG_LEVEL_ERROR
+	LogLevelWarning = C.LIBUSB_LOG_LEVEL_WARNING
+	LogLevelInfo    = C.LIBUSB_LOG_LEVEL_INFO
+	LogLevelDebug   = C.LIBUSB_LOG_LEVEL_DEBUG
+)
