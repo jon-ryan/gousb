@@ -1,3 +1,8 @@
+Changes
+============
+For [github.com/jon-ryan/go-zebra-scanner](https://github.com/jon-ryan/go-zebra-scanner) to work, this serves as the base
+including changes for hotplugging.
+
 Introduction
 ============
 
